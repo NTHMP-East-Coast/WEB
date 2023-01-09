@@ -11,4 +11,4 @@ Archive FY 2018
 
 #. `Documentation (pdf) <https://drive.google.com/drive/u/1/folders/1J_louLoh_iwelokuPzeRu3LtaZX4YGsr>`_
 
-`Back to NTHMP UD Page <https://fengyanshi.github.io/NTHMP/_build/html/index.html>`_
+`Back to NTHMP UD Page <https://nthmp-east-coast.github.io/WEB/_build/html/index.html>`_
