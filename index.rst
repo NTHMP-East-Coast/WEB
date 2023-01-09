@@ -15,6 +15,7 @@
    models
    workshop
    archive
+   methodology
   
 
 
