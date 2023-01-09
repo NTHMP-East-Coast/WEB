@@ -1,7 +1,7 @@
 Run models
 ***********************************
 
-'Examples for coupling: <https://drive.google.com/drive/folders/1VAdkGoi2hs3jk-C7DSOW_bwV0tIfj1hW?usp=sharing>`_
+`Examples for coupling <https://drive.google.com/drive/folders/1VAdkGoi2hs3jk-C7DSOW_bwV0tIfj1hW?usp=sharing>`_
 
 #. run model grid A
 
