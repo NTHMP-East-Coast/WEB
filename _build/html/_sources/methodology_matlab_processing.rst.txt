@@ -1,6 +1,16 @@
 Grid generation
 ***********************************
 
+Bathy/Topo info
+
+1) `NOAA DATA <https://www.ncei.noaa.gov/maps/bathymetry/>`_
+
+2) `3m data download <https://coast.noaa.gov/dataviewer/#/lidar/search/>`_
+
+3) `Coastal Relief Model (CRM) <https://www.ncei.noaa.gov/products/coastal-relief-model>`_
+
+4) `ETOPO (15, 30 and 60 arc-sec) <https://www.ncei.noaa.gov/products/etopo-global-relief-model>`_
+
 `Examples for generating grids <https://drive.google.com/drive/folders/1FltfpD13zzdFIl1K8CzWHv2WytwC7Brm?usp=sharing>`_
 
 `Examples for making stations <https://drive.google.com/drive/folders/1KU2J0aXL_dj0qXXj5FEyXcyU6dGe-DJK?usp=sharing>`_
